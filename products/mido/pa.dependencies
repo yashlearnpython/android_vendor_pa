@@ -1,20 +1,20 @@
 [
     {
         "remote":       "aospa",
-        "repository":   "msm8953-dev/device_xiaomi_mido",
+        "repository":   "yashlearnpython/android_device_xiaomi_mido",
         "target_path":  "device/xiaomi/mido",
-        "revision":     "ruby"
+        "revision":     "pa-ruby"
     },
     {
         "remote":       "aospa",
-        "repository":   "msm8953-dev/proprietary_vendor_xiaomi",
+        "repository":   "yashlearnpython/proprietary_vendor_xiaomi",
         "target_path":  "vendor/xiaomi",
-        "revision":     "ruby"
+        "revision":     "lineage-18.1"
     },
     {
         "remote":       "aospa",
-        "repository":   "msm8953-dev/android_kernel_xiaomi_msm8953",
-        "target_path":  "kernel/xiaomi/msm8953",
+        "repository":   "yashlearnpython/kernel_xiaomi_mido-1",
+        "target_path":  "kernel/xiaomi/mido",
         "revision":     "ruby"
     },
     {
