@@ -9,7 +9,7 @@
         "remote":       "aospa",
         "repository":   "yashlearnpython/proprietary_vendor_xiaomi",
         "target_path":  "vendor/xiaomi",
-        "revision":     "lineage-18.1"
+        "revision":     "pa-ruby"
     },
     {
         "remote":       "aospa",
